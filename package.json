@@ -1,6 +1,6 @@
 {
-  "name": "multiplayer-pinpon-game",
-  "version": "1.0.0",
+  "name": "Snowy's Pong",
+  "version": "2.5.13",
   "description": "",
   "main": "index.js",
   "scripts": {
